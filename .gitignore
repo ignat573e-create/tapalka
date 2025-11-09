@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+npm-debug.log
+dist/
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.log
+
+# OneDrive
+*.lnk
